@@ -63,13 +63,14 @@ As agendas online resolvem o horário, mas a página é delas, com a marca delas
 
 ### Migração e operação
 
-- Importação assistida de clientes, serviços e agendamentos do sistema anterior
-- Setup em 10 minutos
-- Suporte prioritário
+- Implementação feita pela equipe: página, catálogo, agenda e equipe configurados
+- Migração da base de clientes a partir de CSV ou Excel, com limpeza e duplicados identificados
+- 30 dias de acompanhamento após a entrega
+- Suporte incluído na assinatura
 
 ## Modelo
 
-€19/mês com tudo incluído e zero comissão por agendamento. Inclui 1 loja e 1 colaborador. Cada colaborador extra €8/mês, cada loja extra €10/mês.
+Implementação de €759 (pagamento único) com 30 dias de acompanhamento. Depois, €19/mês com tudo incluído e zero comissão por agendamento. Inclui 1 loja e 1 profissional. Cada profissional extra €8/mês, cada loja extra €10/mês. Venda feita por consultores comerciais.
 
 ## Em produção
 

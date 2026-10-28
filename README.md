@@ -70,7 +70,10 @@ As agendas online resolvem o horário, mas a página é delas, com a marca delas
 
 ## Modelo
 
-Implementação de €759 (pagamento único) com 30 dias de acompanhamento. Depois, €19/mês com tudo incluído e zero comissão por agendamento. Inclui 1 loja e 1 profissional. Cada profissional extra €8/mês, cada loja extra €10/mês. Venda feita por consultores comerciais.
+O modelo comercial vigente é uma subscrição de €29/mês (IVA incluído), 
+sem implementação obrigatória, com a IA a montar a página a partir de Instagram/site/tabela de preços. 
+Existe opção de setup com especialista a partir de €299 (pagamento único).Inclui 1 loja e 1 profissional. 
+Cada profissional extra €8/mês, cada loja extra €10/mês. Venda feita por consultores comerciais.
 
 ## Em produção
 
